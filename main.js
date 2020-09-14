@@ -1,5 +1,5 @@
 let n=150;
-		if(n>100, n<200){
+		if(n>100 && n<200){
 		   console.log('The number is in the range');
 		   }
 		else{
